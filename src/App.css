@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  display: inline-block !important;
+}
